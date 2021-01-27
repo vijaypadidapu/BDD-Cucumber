@@ -1,2 +1,0 @@
-# BDD Cucumber
- Interview
