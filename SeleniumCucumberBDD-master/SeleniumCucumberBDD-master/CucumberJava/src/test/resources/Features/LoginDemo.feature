@@ -1,3 +1,4 @@
+#Author: vijaykrishna.sdet@gmail.com
 Feature: Test login functionality
 
   Scenario Outline: Check login is successful with valid credentials
